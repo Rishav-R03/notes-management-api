@@ -1,5 +1,5 @@
-### WriteItUp
-# Just Completed My Full-Stack Notes API Project! 
+# NotesNest
+## Just Completed My Full-Stack Notes API Project! 
 
 Over the past few days, I’ve been working on building a production-ready Notes Management REST API using Node.js, PostgreSQL, and Express, and I’m excited to share my progress so far! 
 
@@ -16,15 +16,15 @@ Over the past few days, I’ve been working on building a production-ready Notes
 ✅ Comprehensive Error Handling
 ✅ Clean Code Structure & Modularization
 
-# Authentication
+## Authentication
 Middleware-powered authenticateToken function checks JWTs from headers.
 
 Users can securely register, login, and access protected routes based on their tokens.
 
-# Testing the Application
+## Testing the Application
 To ensure robustness and reliability, I integrated Jest and Supertest for API testing. 🧪
 
-# Example Test Cases:
+## Example Test Cases:
 
 ✅ Successful and unsuccessful login
 
@@ -38,7 +38,7 @@ To ensure robustness and reliability, I integrated Jest and Supertest for API te
 
 ✅ Edge case handling like missing titles or non-existing note IDs
 
-# Test Results:
+## Test Results:
 
 PASS  tests/auth.test.js
   ✓ should login with correct credentials
@@ -56,7 +56,7 @@ Snapshots:   0 total
 Time:        ~2.5s
 Every feature is tested to ensure reliability, correctness, and security before moving to deployment! 🧪✅
 
-# Tech Stack
+## Tech Stack
 Backend: Node.js + Express.js
 
 Database: PostgreSQL
@@ -71,7 +71,7 @@ Testing: Jest + Supertest
 
 Security: express-rate-limit + input validations
 
-# What’s Next?
+## What’s Next?
 ✅ Add more advanced query filters
 ✅ Dockerize the application
 ✅ Implement CI/CD for auto-deployment
@@ -92,7 +92,7 @@ Writing clean, modular, and scalable backend code
 Would love to hear your feedback! If you're building something similar, let’s connect and learn together.
 
 #NodeJS #PostgreSQL #RESTAPI #BackendDevelopment #WebDevelopment #Jest #APITesting #JavaScript #FullStackDeveloper #100DaysOfCode #Zod #JWT #ExpressJS
-# Database Table Relation
+## Database Table Relation
 ![image](https://github.com/user-attachments/assets/85a30edf-6ab9-4ce8-bc11-aebc15a99442)
 
 
