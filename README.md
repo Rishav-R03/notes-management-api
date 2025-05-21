@@ -98,7 +98,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 This project is licensed under the MIT License. See LICENSE for more information.
 
 🙋‍♂️ Author
-Your Name – LinkedIn
+Rishav Raj – LinkedIn
 📫 Reach me for collaborations, DevOps/backend gigs, or mentoring!
 
 ⭐️ If you like this project...
